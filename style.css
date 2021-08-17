@@ -1,0 +1,16 @@
+.heading {
+    font-size: 25px;
+    width: 80%;
+}
+.obj {
+    color: yellow;
+    font-size: 18px;
+}
+body {
+    background-color: lightcoral;
+}
+#Cam {
+    border:  2px dashed blueviolet;
+    width: 400px;
+    height: 300px;
+}
